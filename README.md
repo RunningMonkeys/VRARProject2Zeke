@@ -12,4 +12,5 @@ Keyboard - https://assetstore.unity.com/packages/3d/props/electronics/keyboard-a
 
 Laptop & Phone - https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438 by RRFreelance / PiXelBurner
 
+Chair - https://assetstore.unity.com/packages/3d/props/furniture/colorable-office-chair-104874 by Azusa
 
