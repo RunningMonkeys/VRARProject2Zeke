@@ -14,5 +14,5 @@ Laptop & Phone - https://assetstore.unity.com/packages/3d/environments/low-poly-
 
 Chair - https://assetstore.unity.com/packages/3d/props/furniture/colorable-office-chair-104874 by Azusa
 
-Pencil, Notepad and Calculator - https://assetstore.unity.com/packages/3d/props/office-supplies-low-poly-105519 by Sten Ulfsson
+Pencil, Notepad, Stapler, Sticky Notes and Calculator - https://assetstore.unity.com/packages/3d/props/office-supplies-low-poly-105519 by Sten Ulfsson
 
