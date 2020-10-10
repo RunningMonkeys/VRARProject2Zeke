@@ -16,3 +16,4 @@ Chair - https://assetstore.unity.com/packages/3d/props/furniture/colorable-offic
 
 Pencil, Notepad, Stapler, Sticky Notes and Calculator - https://assetstore.unity.com/packages/3d/props/office-supplies-low-poly-105519 by Sten Ulfsson
 
+Keyboard Typing - http://soundbible.com/358-Typing-On-Computer-Keyboard.html
