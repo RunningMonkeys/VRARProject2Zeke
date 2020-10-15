@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Ground Plane.unity
+    guid: 9807db120e3c76642b52f8781d27e16e
   m_configObjects: {}
