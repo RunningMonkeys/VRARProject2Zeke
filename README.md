@@ -1,6 +1,17 @@
 # VRARProject2Zeke
 
+Unity version: Unity 2019.4.1f1
 
+Process to run:
+1) Get Unity 2019.4.1f1 with the ability to build to the target you want
+2) Put files from github into a new folder 
+3) Open project in unity hub by selecting the folder that the files were put into
+4) Window->Vuforia Config
+5) Make sure the camera is the correct one (Camera Device option at the bottom)
+6) Add your Vuforia key to the config.
+7) You should be good to either hit play or to build for your target device then run for the small playset scene(Sample Scene in unity).
+8) If you would prefer the ground plane switch to it by opening it(Ground Plane) in the scene folder.
+9) Now you should be able to hit play or build for your target device for the ground plane scence(Ground Plane in unity).
 
 
 
